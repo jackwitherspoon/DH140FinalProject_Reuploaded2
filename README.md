@@ -33,7 +33,7 @@ https://jackwitherspoon.github.io/DH140FinalProject_Reuploaded/fastpages/jupyter
 
 # Binder:
 
-https://mybinder.org/v2/gh/jackwitherspoon/DH140FinalProject_Reuploaded/2c98920aaf1097f9e8f4fa3bb84627ce6570d0ff?filepath=_notebooks%2F2022-03-14-DH140Final.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jackwitherspoon/DH140FinalProject_Reuploaded2.git/main?labpath=2022-03-14-DH140Final.ipynb)
 
 
 # Relavant Files:
