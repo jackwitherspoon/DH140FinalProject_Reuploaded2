@@ -1,9 +1,8 @@
 
 pandas
-csv
 matplotlib
 scipy 
 numpy
-sklearn
+sklea
 statsmodels
 
