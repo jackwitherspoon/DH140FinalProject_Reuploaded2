@@ -3,6 +3,6 @@ pandas
 matplotlib
 scipy 
 numpy
-sklea
+scale
 statsmodels
-
+ols
