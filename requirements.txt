@@ -1,12 +1,9 @@
-Required Python Libraries:
-
 
 pandas
 csv
-matplotlib.pyplot
-scipy import stats
+matplotlib
+scipy 
 numpy
-sklearn.preprocessing
-statsmodels.api
-statsmodels.formula.api
-statsmodels.formula.api
+sklearn
+statsmodels
+
